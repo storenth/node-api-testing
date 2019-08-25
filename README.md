@@ -3,7 +3,6 @@ This originally project was created for showing how to test a node api using **[
 
 ### Getting Started
 
-####Setup
 Install dependencies 
 ```npm install```
 
